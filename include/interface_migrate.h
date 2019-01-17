@@ -973,7 +973,6 @@ typedef enum hash_type
 typedef enum kern_type
 {
   KERN_TYPE_MD5_SLTPW               = 20,
-  KERN_TYPE_MD5_PWUSLT              = 30,
   KERN_TYPE_MD5_SLTPWU              = 40,
   KERN_TYPE_HMACMD5_PW              = 50,
   KERN_TYPE_HMACMD5_SLT             = 60,
